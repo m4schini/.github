@@ -1,8 +1,0 @@
-{
-    "name": "SVN Pusher",
-    "description": "Pushes head commit to speciefied svn repo",
-    "iconName": "pusher-icon",,
-    "filePatterns": [
-        "svnignore.txt"
-    ]
-}

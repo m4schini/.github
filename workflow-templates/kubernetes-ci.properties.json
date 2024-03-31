@@ -1,0 +1,13 @@
+{
+  "name": "Deploy to k8s workflow",
+  "description": "Apply k8s manifests",
+  "iconName": "kuberentes-icon",
+  "categories": [
+    "Kuberenetes"
+  ]
+//  "filePatterns": [
+//    "package.json$",
+//    "^Dockerfile",
+//    ".*\\.md$"
+//  ]
+}
